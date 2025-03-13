@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228334701948",
+    "project_id": "yayaa-1211",
+    "storage_bucket": "yayaa-1211.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228334701948:android:4bfb7acdfc3f4e8555a8f9",
+        "android_client_info": {
+          "package_name": "mine.com.yayaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_2PozxXf8B_qu_ijynE2vRmKdGVnmdvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
